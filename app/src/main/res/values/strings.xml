@@ -2,4 +2,5 @@
     <string name="app_name">KotlinMaps</string>
     <string name="title_activity_maps">MapsActivity</string>
     <string name="place">Place</string>
+    <string name="google_maps_api_key">AIzaSyAgQ1SRUeRZhDWfa-MsW2CH3IYt9-wShm0</string>
 </resources>
